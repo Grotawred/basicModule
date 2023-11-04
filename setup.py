@@ -8,10 +8,8 @@ setup(
     author_email="grishavlasko200@gmail.com",
     packages=['linux-commands'],
     url="https://github.com/Grotawred/basicModule",
-    install_requires=[]
+    install_requires=[],
     classifiers =
     "Programming Language :: Python :: 3"+
     "License :: OSI Approved :: MIT License"+
-    "Operating System :: OS Independent"
-    
-)
+    "Operating System :: OS Independent")
