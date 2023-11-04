@@ -6,7 +6,7 @@ setup(
     description="Basic linux comands",
     author="Grisha Vlasko",
     author_email="grishavlasko200@gmail.com",
-    packages=['linux-commands'],
+    packages=[],
     url="https://github.com/Grotawred/basicModule",
     install_requires=[],
     classifiers =
